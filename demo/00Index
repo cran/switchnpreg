@@ -1,0 +1,3 @@
+motorcycle_example      the motorcycle data set revisited
+simulated_data_indep_example    simulated data example considering independent z's and both penalized log-likelihood and Bayesian approaches.
+simulated_data_Markov_example   simulated data example considering Markov z's and both penalized log-likelihood and Bayesian approaches.

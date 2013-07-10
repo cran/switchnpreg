@@ -1,0 +1,17 @@
+1b8a101fbe5e1f479e17373f6e1af765 *DESCRIPTION
+9224dd02e955f6dafd2eb8564daf7cfc *NAMESPACE
+6f7e5f5d1b6aa87cbf604981bf47a4d1 *R/em.R
+f213454f79ad01b1d6dded325135d4ca *R/estimation-bayes.R
+baf0e6caf9edebc07e53632ef1284021 *R/estimation-markov.R
+0ef9d51306efb234c610fb2123bf7bfd *R/estimation-pl.R
+2da570037ce7834c439527e8a280dea4 *R/estimation.R
+92e2424bf2377d7e1d00b7efe032a11c *R/estimation_iid.R
+7cb780b8a97870c52d40f101e7e3c518 *demo/00Index
+e8ff5b82e80fa39c458bebaf9a738046 *demo/motorcycle_example.R
+74461f5cd22bc9dd3cea45674a6e4e3c *demo/simulated_data_Markov_example.R
+0d065a7b3970cf3fe183e42a462a2fd7 *demo/simulated_data_indep_example.R
+13095248165942d178f02489c9892c3f *inst/demo-support-files/generate.R
+dd54c9782e27c475738f343e16b9cb26 *inst/demo-support-files/initial.R
+4111afaf77105fbcab59e3e108294100 *inst/demo-support-files/plot.R
+d17f637335a59529f18f9c5d6375d989 *inst/demo-support-files/simulated_data_fTrue.RData
+59dd606c585a170df1d54eeaeb4f4239 *man/switchnpreg.Rd
